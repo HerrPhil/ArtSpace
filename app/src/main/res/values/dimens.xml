@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="portrait_width">400dp</dimen>
+    <dimen name="portrait_height">600dp</dimen>
+    <dimen name="portrait_interior_padding">24dp</dimen>
+    <dimen name="portrait_surface_padding">8dp</dimen>
+    <dimen name="portrait_elevation">8dp</dimen>
+    <dimen name="button_area_bottom_padding">24dp</dimen>
+    <dimen name="minimum_button_width">100dp</dimen>
+    <dimen name="button_row_padding">16dp</dimen>
+
+
+</resources>

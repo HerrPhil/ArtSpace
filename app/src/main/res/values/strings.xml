@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Art Space</string>
+
+    <string name="steve_jobs_portrait_title">Portrait of Steve Jobs</string>
+    <string name="seneca_portrait_title">Portrait of Seneca</string>
+    <string name="columbus_portrait_title">Portrait of Columbus</string>
+    <string name="van_gogh_portrait_title">Portrait of Van Gogh</string>
+    <string name="aristotle_portrait_title">Portrait of Aristotle</string>
+
+    <string name="steve_jobs_portrait_artist">Artist #1</string>
+    <string name="seneca_portrait_artist">Artist #2</string>
+    <string name="columbus_portrait_artist">Artist #3</string>
+    <string name="van_gogh_portrait_artist">Artist #4</string>
+    <string name="aristotle_portrait_artist">Artist #5</string>
+
+    <string name="steve_jobs_portrait_year">1980</string>
+    <string name="seneca_portrait_year">1990</string>
+    <string name="columbus_portrait_year">2000</string>
+    <string name="van_gogh_portrait_year">2010</string>
+    <string name="aristotle_portrait_year">2020</string>
+
+    <string name="portrait_artist_and_year">%s (%s)</string>
+    <string name="navigate_previous_portrait">Previous</string>
+    <string name="navigate_next_portrait">Next</string>
+
+</resources>
